@@ -45,6 +45,7 @@ SoulBuddy is an AI-driven platform that generates personalized spiritual guidanc
 ### Backend:
 - 🤖 *FastAPI*
 - 📂 *DataStax Astra DB* (Cassandra-based database)
+- 📂 *Langflow*
 
 ### AI Integration:
 - 🌌 *Groq Llama-3.1-8b-Instant* for chatbot and insights generation.
