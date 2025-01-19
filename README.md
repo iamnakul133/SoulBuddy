@@ -40,8 +40,7 @@ SoulBuddy is an AI-driven platform that generates personalized spiritual guidanc
 
 ### Frontend:
 - ⚙️ *React*
-- 🟣 *TailwindCSS*
-- ⚡️ *Vite*
+- 🟣 *MaterialUI*
 
 ### Backend:
 - 🤖 *FastAPI*
